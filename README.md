@@ -22,3 +22,14 @@ This program covers:
 - Program a home service robot that will autonomously map an environment and navigate to pick up and deliver objects.
 ### P06 - Optional: KUKA Robotic Arm Path Planning
 - Navigate a KUKA robot through a 2D maze.
+
+
+## Setup Environment
+To create the environment after clonning this repo, run: 
+```bash
+conda env create -f environment.yml
+```
+Then activate it:
+```bash
+conda activate RoboND
+```
